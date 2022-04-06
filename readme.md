@@ -1,0 +1,1 @@
+This allows you to move a number of randomly choosen pictures from a directory to new directories based on file name.
